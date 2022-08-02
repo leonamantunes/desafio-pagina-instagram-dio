@@ -1,6 +1,6 @@
 # desafio-pagina-instagram-dio
 
-Desafio de projeto da plataforma DIO. O desafio consiste em construir uma copia identica a pagina de login do Instagram
+Desafio de projeto da plataforma DIO. O desafio consiste na reprodução de uma copia identica a pagina de login do Instagram
 
 
 ## Demo
@@ -8,4 +8,3 @@ Desafio de projeto da plataforma DIO. O desafio consiste em construir uma copia 
 ![Instagram](https://i.imgur.com/75qpXI3.png)
 ## Licença
 
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
